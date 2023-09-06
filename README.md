@@ -39,4 +39,7 @@ Tenho 28 anos, moro no Rio de Janeiro/RJ e sou desenvolvedor front-end junior, e
 <a href = "mailto:victorduarte150994@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/victor-duarte1509/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
+
+
+
 </div>
