@@ -1,7 +1,7 @@
 # Victor Duarte
 ##                                Sejam bem vindos, Devs! 👋
 
-Tenho 28 anos, moro no Rio de Janeiro/RJ e sou desenvolvedor front-end junior, e estou fazendo transição de carreira desde 2022( sou formado em biomedicina). Sou iniciante no universo da programação, insistente em descobrir erros, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! 
+Tenho 29 anos, moro no Rio de Janeiro/RJ e sou desenvolvedor front-end junior, e estou fazendo transição de carreira desde 2022( sou formado em biomedicina). Sou iniciante no universo da programação, insistente em descobrir erros, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! 
 
 
 
