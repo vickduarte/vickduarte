@@ -22,6 +22,8 @@ Tenho 29 anos, moro no Rio de Janeiro/RJ e sou desenvolvedor front-end junior, e
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="10%" height="20%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="10%" height="20%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="10%" height="20%" />
+          
 </div>         
 
 ##
