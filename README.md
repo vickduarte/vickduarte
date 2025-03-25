@@ -1,7 +1,7 @@
 # Victor Duarte
 ##                                Sejam bem vindos, Devs! 👋
 
-Tenho 29 anos, moro no Rio de Janeiro/RJ e sou analista de Dados! 
+Tenho 30 anos, moro no Rio de Janeiro/RJ e sou analista de Dados! 
 
 
 
